@@ -1,0 +1,22 @@
+{
+  "name": "dhineshkumar",
+  "version": "1.0.0",
+  "description": "this is dhineshkumar cv",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dineshkumar46146/mycv.git"
+  },
+  "author": "dhineshkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshkumar46146/mycv/issues"
+  },
+  "homepage": "https://github.com/dineshkumar46146/mycv#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
